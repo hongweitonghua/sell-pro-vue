@@ -19,8 +19,3 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# successh5
-my scuucess roat
->>>>>>> 61351811a65de7d138af2371cd5de1f10e54fe70
