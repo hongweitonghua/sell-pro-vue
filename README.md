@@ -1,24 +1,4 @@
 
-# sell-pro 使用
-
-> sell project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
 # sell-pro 基本介绍
 '造轮子'：主要也是为了学习vue而做，有问题或者任何不足的地方欢迎提出。
 
@@ -40,3 +20,23 @@ npm run build --report
 - css sticky footer布局技术
 - flex弹性布局技术[阮一峰](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 - table布局实现水平垂直居中
+
+# sell-pro 使用
+
+> sell project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
